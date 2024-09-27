@@ -22,7 +22,7 @@ for long-term archiving for others to discover. We will cover Dataverse, Dash/Dr
 ### Objectives:
 
 - Why sharing datasets is easier with a Repository designed for archiving and discovery
-- Learn a little about: Dataverse, Zenodo, Dash/Dryad, OSF,  
+- Learn a little about: Dataverse, Zenodo, Dash/Dryad, OSF
 - Searching for Data in Repositories
 - APIs + Tools to work with repositories
 
@@ -137,7 +137,7 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 - [Re3data.org](http://www.re3data.org/): The Registry of Resarch Data Repositories is a service provided by DataCite (a global non-profit that provides DOIs - Digial Object Identifiers). With over 1,500 data repositories listed, re3data.org is likely to have a repository in your discipline.
 
-- [OpenDOAR](http://opendoar.org/): OpenDOAR (Directory of Open Access Repositories) is an curated and authorative list of academic open access repositories. Not only do staff of OpenDOAR visit each repository listed but they also review each repository for quality (a pretty big task considering they have 2,600 listings). Included in OpenDOAR are datasets, articles, books, and software.
+- [OpenDOAR](http://v2.sherpa.ac.uk/opendoar/): OpenDOAR (Directory of Open Access Repositories) is an curated and authorative list of academic open access repositories. Not only do staff of OpenDOAR visit each repository listed but they also review each repository for quality (a pretty big task considering they have 2,600 listings). Included in OpenDOAR are datasets, articles, books, and software.
 
 - Simmons College hosts the [Open Access Directory’s list of Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories). The Open Access Directory is maintained by the Open Access community and an editorial board. It includes repositories ranging from archaeology to physics.
 
